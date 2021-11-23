@@ -1,0 +1,8 @@
+.background {
+  display: flex;
+  min-height: 100vh;
+  text-align: center;
+  background-color: rgb(255, 199, 220);
+  color: rgb(68, 55, 55);
+  transition: background-color 2s ease-in-out
+}

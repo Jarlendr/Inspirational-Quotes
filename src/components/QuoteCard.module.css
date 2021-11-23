@@ -1,0 +1,54 @@
+.quote-card {
+  background-color: inherit;
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  width: 30em;
+  border-radius: 1em;
+  padding: 2em;
+  color: inherit;
+}
+
+.quote-text {
+  font-size: 1.8rem;
+  font-weight: 500;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.quote-author {
+  margin-left: auto;
+  font-style: italic;
+  font-size: 1.2rem;
+  animation: fadeIn 2s ease-in-out;
+}
+
+.quote-sign {
+  font-size: 2rem;
+}
+
+.item-enter {
+  opacity: 0.01;
+}
+
+.item-enter.item-enter-active {
+  opacity: 1;
+  transition: opacity 500ms ease-in;
+}
+
+.item-leave {
+  opacity: 1;
+}
+
+.item-leave.item-leave-active {
+  opacity: 0.01;
+  transition: opacity 300ms ease-in;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
