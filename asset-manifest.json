@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Jarlendr/Inspirational-Quotes.git/static/css/main.f9613087.chunk.css",
+    "main.js": "/Jarlendr/Inspirational-Quotes.git/static/js/main.630cd21e.chunk.js",
+    "main.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/main.630cd21e.chunk.js.map",
+    "runtime-main.js": "/Jarlendr/Inspirational-Quotes.git/static/js/runtime-main.fd86e9f1.js",
+    "runtime-main.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/runtime-main.fd86e9f1.js.map",
+    "static/js/2.4d24ab76.chunk.js": "/Jarlendr/Inspirational-Quotes.git/static/js/2.4d24ab76.chunk.js",
+    "static/js/2.4d24ab76.chunk.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/2.4d24ab76.chunk.js.map",
+    "static/js/3.2afdfaef.chunk.js": "/Jarlendr/Inspirational-Quotes.git/static/js/3.2afdfaef.chunk.js",
+    "static/js/3.2afdfaef.chunk.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/3.2afdfaef.chunk.js.map",
+    "index.html": "/Jarlendr/Inspirational-Quotes.git/index.html",
+    "static/css/main.f9613087.chunk.css.map": "/Jarlendr/Inspirational-Quotes.git/static/css/main.f9613087.chunk.css.map",
+    "static/js/2.4d24ab76.chunk.js.LICENSE.txt": "/Jarlendr/Inspirational-Quotes.git/static/js/2.4d24ab76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd86e9f1.js",
+    "static/js/2.4d24ab76.chunk.js",
+    "static/css/main.f9613087.chunk.css",
+    "static/js/main.630cd21e.chunk.js"
+  ]
+}
