@@ -2,7 +2,7 @@
   "name": "inspirational_quotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Jarlendr.github.io/Inspirational-Quotes.git",
+  "homepage": "https://jarlendr.github.io/Inspirational-Quotes",
   "dependencies": {
     "-": "^0.0.1",
     "@testing-library/jest-dom": "^5.15.0",
