@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Jarlendr/Inspirational-Quotes.git/static/css/main.f9613087.chunk.css",
-    "main.js": "/Jarlendr/Inspirational-Quotes.git/static/js/main.630cd21e.chunk.js",
-    "main.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/main.630cd21e.chunk.js.map",
-    "runtime-main.js": "/Jarlendr/Inspirational-Quotes.git/static/js/runtime-main.fd86e9f1.js",
-    "runtime-main.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/runtime-main.fd86e9f1.js.map",
-    "static/js/2.4d24ab76.chunk.js": "/Jarlendr/Inspirational-Quotes.git/static/js/2.4d24ab76.chunk.js",
-    "static/js/2.4d24ab76.chunk.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/2.4d24ab76.chunk.js.map",
-    "static/js/3.2afdfaef.chunk.js": "/Jarlendr/Inspirational-Quotes.git/static/js/3.2afdfaef.chunk.js",
-    "static/js/3.2afdfaef.chunk.js.map": "/Jarlendr/Inspirational-Quotes.git/static/js/3.2afdfaef.chunk.js.map",
-    "index.html": "/Jarlendr/Inspirational-Quotes.git/index.html",
-    "static/css/main.f9613087.chunk.css.map": "/Jarlendr/Inspirational-Quotes.git/static/css/main.f9613087.chunk.css.map",
-    "static/js/2.4d24ab76.chunk.js.LICENSE.txt": "/Jarlendr/Inspirational-Quotes.git/static/js/2.4d24ab76.chunk.js.LICENSE.txt"
+    "main.css": "/Inspirational-Quotes/static/css/main.f9613087.chunk.css",
+    "main.js": "/Inspirational-Quotes/static/js/main.630cd21e.chunk.js",
+    "main.js.map": "/Inspirational-Quotes/static/js/main.630cd21e.chunk.js.map",
+    "runtime-main.js": "/Inspirational-Quotes/static/js/runtime-main.d244b13b.js",
+    "runtime-main.js.map": "/Inspirational-Quotes/static/js/runtime-main.d244b13b.js.map",
+    "static/js/2.4d24ab76.chunk.js": "/Inspirational-Quotes/static/js/2.4d24ab76.chunk.js",
+    "static/js/2.4d24ab76.chunk.js.map": "/Inspirational-Quotes/static/js/2.4d24ab76.chunk.js.map",
+    "static/js/3.2afdfaef.chunk.js": "/Inspirational-Quotes/static/js/3.2afdfaef.chunk.js",
+    "static/js/3.2afdfaef.chunk.js.map": "/Inspirational-Quotes/static/js/3.2afdfaef.chunk.js.map",
+    "index.html": "/Inspirational-Quotes/index.html",
+    "static/css/main.f9613087.chunk.css.map": "/Inspirational-Quotes/static/css/main.f9613087.chunk.css.map",
+    "static/js/2.4d24ab76.chunk.js.LICENSE.txt": "/Inspirational-Quotes/static/js/2.4d24ab76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fd86e9f1.js",
+    "static/js/runtime-main.d244b13b.js",
     "static/js/2.4d24ab76.chunk.js",
     "static/css/main.f9613087.chunk.css",
     "static/js/main.630cd21e.chunk.js"
